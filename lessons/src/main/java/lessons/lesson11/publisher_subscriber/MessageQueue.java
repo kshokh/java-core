@@ -1,4 +1,4 @@
-package lessons.lesson11;
+package lessons.lesson11.publisher_subscriber;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

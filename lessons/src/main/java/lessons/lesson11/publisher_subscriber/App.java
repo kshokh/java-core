@@ -1,4 +1,4 @@
-package lessons.lesson11;
+package lessons.lesson11.publisher_subscriber;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
